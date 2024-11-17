@@ -6,6 +6,7 @@
 [![](https://weblate.samboy.dev/widgets/assetripper/-/gui/svg-badge.svg)](http://weblate.samboy.dev/engage/assetripper/)
 
 AssetRipper is a tool for extracting assets from Unity serialized files (*CAB-*\*, *\*.assets*, *\*.sharedAssets*, etc.) and asset bundles (*\*.unity3d*, *\*.bundle*, etc.) and converting them into the native Unity engine format.
+With this fork, AssetRipper wont make dummy scripts for Il2Cpp but actual scripts using Cpp2Il (if the metadata wont have a higher version of 31).
 
 # Donations
 
